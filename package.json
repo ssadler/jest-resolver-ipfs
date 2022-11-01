@@ -1,0 +1,14 @@
+{
+  "name": "jest-resolver-ipfs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ssadler/jest-resolver-ipfs",
+  "author": "ssadler <github@mashi.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "ipfs-core-utils": "^0.17.0"
+  }
+}
