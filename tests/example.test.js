@@ -1,5 +1,5 @@
 
-require("ipfs-core-utils/multicodecs")
+let c = require("ipfs-http-client")
 
 console.log(c)
 
